@@ -1,0 +1,7 @@
+search takes the info test and plug it into the ajax 
+ajax call will return a respons and you need to plug it into page
+have a loop to run the cards 
+
+api 
+
+api.openweathermap.org/data/2.5/forecast?q={city name}&appid=2532f23cea9a50b405498efcf115f956
